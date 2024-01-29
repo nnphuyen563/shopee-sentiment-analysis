@@ -24,5 +24,5 @@ Especially, we processed Vietnamese comments, a language that currently has quit
 
 <hr>
 
-<i><b>Note:</b>This project is for research and educational purposes only. We do not take responsibility for the use of data from Shopee without their permission.</i>
+<i><b>Note: </b>This project is for research and educational purposes only. We do not take responsibility for the use of data from Shopee without their permission.</i>
 
