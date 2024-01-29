@@ -19,8 +19,8 @@ Especially, we processed Vietnamese comments, a language that currently has quit
 1. <b>Data collection</b>: Use the Shopee API to retrieve comments from fashion products.
 2. <b>Data preprocessing</b>: Remove punctuation, convert to lowercase, replace slangs and perform other preprocessing to prepare the data for analysis.
 3. <b>Consensus evaluation</b>: Use Fleiss Kappa to evaluate consistency in comment labeling.
-4. Sentiment and Opinion Analysis: Utilize 6 trained models to analyze sentiment and extract opninions from comments.
-5. Display Results: Visualize results.
+4. <b>Sentiment and Opinion Analysis</b>: Utilize 6 trained models to analyze sentiment and extract opninions from comments.
+5. <b>Display Results</b>: Visualize results.
 
 <hr>
 
